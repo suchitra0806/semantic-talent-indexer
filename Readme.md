@@ -1,6 +1,6 @@
 # 🚀 Semantic Talent Indexer
 
-A high-performance, local RAG (retrieval-augmented generation) pipeline designed to index and query professional resumes using natural language.
+A local RAG (retrieval-augmented generation) pipeline designed to index and query professional resumes using natural language.
 
 ## 🛠️ Stack
 - **Orchestration:** [llamaIndex](https://www.llamaindex.ai/)
