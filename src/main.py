@@ -15,8 +15,8 @@ def run_search():
     query_engine = index.as_query_engine()
     
     print("🔍 ai is generating your summary now...")
-    response = query_engine.query("summarize this candidate's big 4 experience and technical projects.")
-    
+    response = query_engine.query("summarize this candidate's experience and technical projects.")
+
     print(f"\nfinal ai summary:\n{response}")
 
 if __name__ == "__main__":
